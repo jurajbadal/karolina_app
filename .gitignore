@@ -1,1 +1,7 @@
+node_modules
 *.txt
+*.html
+*.csv
+CSV/*
+*.pdf
+playwright-report/*.html
